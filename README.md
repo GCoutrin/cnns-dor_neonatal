@@ -1,4 +1,4 @@
-# cnns-neonatal_pain
+# cnns-dor_neonatal
 
 Este repositório contém os códigos elaborados para a dissertação "Redes Neurais Convolucionais para Avaliação de Dor Neonatal em Imagens de Face: Uma Análise Quantitativa e Qualitativa", ainda em desenvolvimento.
 
